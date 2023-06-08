@@ -1,20 +1,20 @@
  <img width="100%" src="./img/code">
  
-# 🌱100DaysOfCode
+# 100DaysOfCode
 
-Olá a todos, hoje estou dando ínicio a esse desafio de 100 dias corridos estudando progamação, minhas principais motivações para iniciar e publicar esse desafio são:
-1. Ter um local que contenha arquivado todos meus estudos.
-2. Começar a estudar programação também nos fins de semana.
-3. Possivelmente ajudar outras pessoas no futuro.
-4. Ter um quadro de contribuições do github verdinho ksksks.
+👋 Hello everyone, today I'm starting this challenge of 100 consecutive days studying programming, my main motivations for starting and publishing this challenge are:
+1. Have a place that contains all my studies filed.
+2. Start studying programming also on weekends.
+3. Possibly help others in the future.
+4. Have a github contributions board green ksksks.
 
 ---
 
-## 📃Goals
+## Goals
 - [ ] [Learn Software Development](#learn-software-development)
 - [ ] [Solve problems on Data Structures and Algorithms](#solve-problems-on-data-structures-and-algorithms)
 - [ ] [Build Projects around Software Development](#build-projects-around-software-development)
-- [ ] [Conquer a job](#)
+- [ ] [Conquer a job](#conquer-a-job)
 
 ---
 
@@ -22,7 +22,7 @@ Olá a todos, hoje estou dando ínicio a esse desafio de 100 dias corridos estud
 
 #### Learn JavaScript Software Development 
 - [ ] JavaScript Core Concepts -
-	- [ ] Variables & data types - [Day 1](#day-01)
+	- [ ] Variables & data types - [Day 0](#day-00)
 	- [ ] Data structures - 
 	- [ ] Equality Comparisons - 
 	- [ ] Loops and Iterations - 
@@ -88,8 +88,22 @@ Olá a todos, hoje estou dando ínicio a esse desafio de 100 dias corridos estud
 ---
 
 
-### 📅 Timeline
+### Conquer a job
+- [ ] Publish the portfolio -
+- [ ] Improve my resume -
+- [ ] apply for jobs -
 
-| **Task :pushpin:** | **Date :date:** | **Lessons/Tasks Done :alarm_clock:**                                                      | **Links Ref. :link:**                                                                     |
-| ------------------ | --------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| <span id="day-01">Day 01</span>  | Jun 08          | Started at Orange Tech + Back-End Bootcamp at Digital Innovation One        | [_DIO_ :tent:][def]                                                         |
+---
+
+
+## 📅 Timeline
+
+| **Task :pushpin:**               | **Date :date:** | **Lessons/Tasks Done :alarm_clock:**                                                           | **Links Ref. :link:**                                                        |
+| -------------------------------- | --------------- | -----------------------------------------------------------------------------------------      | ---------------------------------------------------------------------------- |
+| <span id="day-01">Day 01</span>  | Jun 08          | Create this repository + Module 3 Alura-NG Javascript and HTML                                 | [_DIO_ :tent:][def]                                                          |
+
+
+
+
+
+
