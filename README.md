@@ -100,10 +100,11 @@
 
 | **Task :pushpin:**               | **Date :date:** | **Lessons/Tasks Done :alarm_clock:**                                                           | **Links Ref. :link:**                                                        |
 | -------------------------------- | --------------- | -----------------------------------------------------------------------------------------      | ---------------------------------------------------------------------------- |
-| <span id="day-01">Day 01</span>  | Jun 08          | Create this repository + Module 3 Alura-NG Javascript and HTML                                 | [_DIO_ :tent:][def]                                                          |
+| <span id="day-01">Day 01</span>  | Jun 08          | Create this repository + Module 3 Alura-NG Javascript and HTML                                 | [Alura:file_cabinet:][def]                                                          |
+
+
+---
 
 
 
-
-
-
+[def]: https://www.alura.com
