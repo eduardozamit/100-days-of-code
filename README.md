@@ -98,9 +98,9 @@
 
 ## 📅 Timeline
 
-| **Task :pushpin:**               | **Date :date:** | **Lessons/Tasks Done :alarm_clock:**                                                           | **Links Ref. :link:**                                                        |
-| -------------------------------- | --------------- | -----------------------------------------------------------------------------------------      | ---------------------------------------------------------------------------- |
-| <span id="day-01">Day 01</span>  | Jun 08          | Create this repository + Module 3 Alura-NG Javascript and HTML                                 | [Alura:file_cabinet:][def]                                                          |
+| **Daytime :sunny:**              | **Date :date:** | **Tasks/Lessons Done :white_check_mark:**                                                                                          | **Links Ref. :link:**                                                        |
+| -------------------------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| <span id="day-01">Day 01</span>  | Jun 08          | Create this repository + Module 3 Alura-NG Javascript and HTML                                                                     | [Alura:file_cabinet:][def]                                                   |
 
 
 ---
