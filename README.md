@@ -1,4 +1,4 @@
- <img width="100%" src="./img/code">
+ <img width="100%" src="./img/code.jpeg">
  
 # 100DaysOfCode
 
