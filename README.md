@@ -100,7 +100,8 @@
 
 | **Daytime :sunny:**              | **Date :date:** | **Tasks/Lessons Done :white_check_mark:**                                                                                          | **Links Ref. :link:**                                                        |
 | -------------------------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| <span id="day-01">Day 01</span>  | Jun 08          | Create this repository + Module 3 Alura-NG Javascript and HTML                                                                     | [Alura:file_cabinet:][def]                                                   |
+| <span id="day-01">Day 01</span>  | Jun 08          | Create this repository + JavaScript and HTML basics structures                                                                     | [Alura:file_cabinet:][def]                                                   |
+| <span id="day-02">Day 02</span>  | Jun 09          | Aws + GreenSkills + JavaScript and HTML basics structures                                                                          | [Alura:file_cabinet:][def]                                                   |
 
 
 ---
