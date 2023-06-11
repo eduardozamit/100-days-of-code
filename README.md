@@ -102,7 +102,7 @@
 | -------------------------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | <span id="day-01">Day 01</span>  | Jun 08          | Create this repository + JavaScript and HTML basics structures                                                                     | [Alura:file_cabinet:][def]                                                   |
 | <span id="day-02">Day 02</span>  | Jun 09          | Aws + GreenSkills + JavaScript and HTML basics structures                                                                          | [Alura:file_cabinet:][def]                                                   |
-
+| <span id="day-02">Day 02</span>  | Jun 10          | Aws + GreenSkills + JavaScript and HTML basics structures                                                                          | [Alura:file_cabinet:][def]                                                   |
 
 ---
 
