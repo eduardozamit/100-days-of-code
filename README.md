@@ -101,7 +101,7 @@
 | **Daytime :sunny:**              | **Date :date:** | **Tasks/Lessons Done :white_check_mark:**                                                                                          | **Links Ref. :link:**                                                        |
 | -------------------------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | <span id="day-01">Day 01</span>  | Jun 12          | AWS Cloud Practitioner Essentials + job applications                                                                               |                                                                              |
-| <span id="day-02">Day 02</span>  | Jun 13          |                                                                                                                                    |                                                                              |
+| <span id="day-02">Day 02</span>  | Jun 13          | AWS Cloud Practitioner Essentials                                                                                                  |                                                                              |
 | <span id="day-02">Day 02</span>  | Jun 14          |                                                                                                                                    |                                                                              |
 
 ---
