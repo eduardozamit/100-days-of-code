@@ -22,7 +22,7 @@
 
 #### Learn JavaScript Software Development 
 - [ ] JavaScript Core Concepts -
-	- [ ] Variables & data types - [Day 0](#day-00)
+	- [ ] Variables & data types - [Day 3](#day-03)
 	- [ ] Data structures - 
 	- [ ] Equality Comparisons - 
 	- [ ] Loops and Iterations - 
@@ -101,8 +101,8 @@
 | **Daytime :sunny:**              | **Date :date:** | **Tasks/Lessons Done :white_check_mark:**                                                                                          | **Links Ref. :link:**                                                        |
 | -------------------------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | <span id="day-01">Day 01</span>  | Jun 12          | AWS Cloud Practitioner Essentials + job applications                                                                               |                                                                              |
-| <span id="day-02">Day 02</span>  | Jun 13          | AWS Cloud Practitioner Essentials                                                                                                  |                                                                              |
-| <span id="day-02">Day 02</span>  | Jun 14          |                                                                                                                                    |                                                                              |
+| <span id="day-02">Day 02</span>  | Jun 13          | AWS Cloud Practitioner Essentials + JavaScript basic structures                                                                    |                                                                              |
+| <span id="day-02">Day 02</span>  | Jun 14          | AWS Cloud Practitioner Essentials + JavaScript basic structures                                                                    |                                                                              |
 
 ---
 
