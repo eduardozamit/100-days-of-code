@@ -22,7 +22,7 @@
 
 #### Learn JavaScript Software Development 
 - [ ] JavaScript Core Concepts -
-	- [ ] Variables & data types - [Day 3](#day-03)
+	- [ ] Variables & data types - [Day 3](#day-03) [Day 4](#day-04)
 	- [ ] Data structures - 
 	- [ ] Equality Comparisons - 
 	- [ ] Loops and Iterations - 
