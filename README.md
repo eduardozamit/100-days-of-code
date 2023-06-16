@@ -100,12 +100,13 @@
 
 | **Daytime :sunny:**              | **Date :date:** | **Tasks/Lessons Done :white_check_mark:**                                                                                          | **Links Ref. :link:**                                                        |
 | -------------------------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| <span id="day-01">Day 01</span>  | Jun 12          | AWS Cloud Practitioner Essentials + job applications                                                                               |                                                                              |
-| <span id="day-02">Day 02</span>  | Jun 13          | AWS Cloud Practitioner Essentials + JavaScript basic structures                                                                    |                                                                              |
-| <span id="day-02">Day 02</span>  | Jun 14          | AWS Cloud Practitioner Essentials + JavaScript basic structures                                                                    |                                                                              |
+| <span id="day-01">Day 01</span>  | Jun 12          | AWS Cloud Practitioner Essentials + job applications                                                                               | [code :pager:][def]                                                          |
+| <span id="day-02">Day 02</span>  | Jun 13          | AWS Cloud Practitioner Essentials + JavaScript basic structures                                                                    | [code :pager:][def]                                                          |
+| <span id="day-02">Day 02</span>  | Jun 14          | AWS Cloud Practitioner Essentials + JavaScript basic structures                                                                    | [code :pager:][def]                                                          |
+| <span id="day-02">Day 02</span>  | Jun 15          | AWS Cloud Practitioner Essentials + JavaScript basic structures                                                                    | [code :pager:][def]                                                          |
 
 ---
 
 
 
-[def]: https://www.alura.com
+[def]: https://github.com/eduardozamit/bunch-of-codes
