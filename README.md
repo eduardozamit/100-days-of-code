@@ -91,7 +91,7 @@
 ### Conquer a job
 - [ ] Publish the portfolio -
 - [ ] Improve my resume -
-- [ ] apply for jobs -
+- [ ] apply for jobs - [Day 1](#day-01)
 
 ---
 
