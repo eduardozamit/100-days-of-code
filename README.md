@@ -104,10 +104,10 @@
 | <span id="day-02">Day 02</span>  | Jun 13          | AWS Cloud Practitioner Essentials + JavaScript basic structures                                                                    | [code :pager:][def]                                                          |
 | <span id="day-03">Day 03</span>  | Jun 14          | AWS Cloud Practitioner Essentials + JavaScript basic structures                                                                    | [code :pager:][def]                                                          |
 | <span id="day-04">Day 04</span>  | Jun 15          | AWS Cloud Practitioner Essentials + JavaScript basic structures                                                                    | [code :pager:][def]                                                          |
-| <span id="day-04">Day 05</span>  | Jun 16          | AWS Cloud Practitioner Essentials + JavaScript basic structures                                                                    | [code :pager:][def]                                                          |
-| <span id="day-04">Day 06</span>  | Jun 17          | AWS Cloud Practitioner Essentials + JavaScript basic structures                                                                    | [code :pager:][def]                                                          |
-| <span id="day-04">Day 07</span>  | Jun 18          | AWS Cloud Practitioner Essentials + JavaScript basic structures                                                                    | [code :pager:][def]                                                          |
-
+| <span id="day-05">Day 05</span>  | Jun 16          | AWS Cloud Practitioner Essentials + JavaScript basic structures                                                                    | [code :pager:][def]                                                          |
+| <span id="day-06">Day 06</span>  | Jun 17          | AWS Cloud Practitioner Essentials + JavaScript basic structures                                                                    | [code :pager:][def]                                                          |
+| <span id="day-07">Day 07</span>  | Jun 18          | AWS Cloud Practitioner Essentials + JavaScript basic structures                                                                    | [code :pager:][def]                                                          |
+| <span id="day-08">Day 08</span>  | Jun 19          | AWS Cloud Practitioner Essentials + JavaScript basic structures                                                                    | [code :pager:][def]                                                          |
 ---
 
 
