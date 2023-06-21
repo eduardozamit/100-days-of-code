@@ -22,7 +22,7 @@
 
 #### Learn JavaScript Software Development 
 - [ ] JavaScript Core Concepts -
-	- [ ] Variables & data types - [Day 3](#day-03)
+	- [ ] Variables & data types - [Day 1](#day-01)
 	- [ ] Data structures - 
 	- [ ] Equality Comparisons - 
 	- [ ] Loops and Iterations - 
@@ -72,7 +72,7 @@
 	-  [ ] Greedy -
 
 - [ ] Solve LeetCode Challenges in Javascript -
-- [ ] Solve Hackerrank Challenges in JavaScript -
+- [ ] Solve Hackerrank Challenges in JavaScript - [Day 1](#day-01)
 - [ ] solve CodeWars challenges in JavaScript -
 
 ---
