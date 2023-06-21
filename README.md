@@ -22,7 +22,7 @@
 
 #### Learn JavaScript Software Development 
 - [ ] JavaScript Core Concepts -
-	- [ ] Variables & data types - [Day 3](#day-03) [Day 4](#day-04)
+	- [ ] Variables & data types - [Day 3](#day-03)
 	- [ ] Data structures - 
 	- [ ] Equality Comparisons - 
 	- [ ] Loops and Iterations - 
@@ -101,7 +101,7 @@
 
 | **Daytime :sunny:**              | **Date :date:** | **Tasks/Lessons Done :white_check_mark:**                                                                                          | **Links Ref. :link:**                                                        |
 | -------------------------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| <span id="day-01">Day 01</span>  | Jun 20          |                                                                                                                                    |                                                                              |
+| <span id="day-01">Day 01</span>  | Jun 20          | Javascript: Variables & data types + Job aplication + Hackerrank Challenges + Aws cloud practitioner                               |                                                                              |
 | <span id="day-02">Day 02</span>  | Jun 21          |                                                                                                                                    |                                                                              |
 | <span id="day-03">Day 03</span>  | Jun 22          |                                                                                                                                    |                                                                              |
 | <span id="day-04">Day 04</span>  | Jun 23          |                                                                                                                                    |                                                                              |
