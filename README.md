@@ -22,8 +22,8 @@
 
 #### Learn JavaScript Software Development 
 - [ ] JavaScript Core Concepts -
-	- [ ] Variables & data types - [Day 1](#day-01)
-	- [ ] Data structures - 
+	- [ ] Variables & data types - [Day 1](#day-01), [Day 2](#day-02)
+	- [ ] Data structures - [Day 3](#day-03)
 	- [ ] Equality Comparisons - 
 	- [ ] Loops and Iterations - 
 	- [ ] Control Flow - 
@@ -72,7 +72,7 @@
 	-  [ ] Greedy -
 
 - [ ] Solve LeetCode Challenges in Javascript -
-- [ ] Solve Hackerrank Challenges in JavaScript - [Day 1](#day-01)
+- [ ] Solve Hackerrank Challenges in JavaScript - [Day 1](#day-01), [Day 3](#day-03)
 - [ ] solve CodeWars challenges in JavaScript -
 
 ---
@@ -91,7 +91,7 @@
 ### Conquer a job
 - [ ] Publish the portfolio -
 - [ ] Improve my resume -
-- [ ] apply for jobs - [Day 1](#day-01)
+- [ ] apply for jobs - [Day 1](#day-01), [Day 3](#day-03)
 
 
 ---
@@ -102,8 +102,8 @@
 | **Daytime :sunny:**              | **Date :date:** | **Tasks/Lessons Done :white_check_mark:**                                                                                          | **Links Ref. :link:**                                                        |
 | -------------------------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | <span id="day-01">Day 01</span>  | Jun 20          | Javascript: Variables & data types + Job aplication + Hackerrank Challenges + Aws cloud practitioner                               | [code :pager:][def]                                                          |
-| <span id="day-02">Day 02</span>  | Jun 21          |                                                                                                                                    |                                                                              |
-| <span id="day-03">Day 03</span>  | Jun 22          |                                                                                                                                    |                                                                              |
+| <span id="day-02">Day 02</span>  | Jun 21          | Javascript: Variables & data types + Aws cloud practitioner + Job aplication                                                       | [code :pager:][def]                                                          |
+| <span id="day-03">Day 03</span>  | Jun 22          | Javascript:data structures + Job aplication + Hackerrank Challenges + Aws cloud practitioner                                       | [code :pager:][def]                                                          |
 | <span id="day-04">Day 04</span>  | Jun 23          |                                                                                                                                    |                                                                              |
 | <span id="day-05">Day 05</span>  | Jun 24          |                                                                                                                                    |                                                                              |
 | <span id="day-06">Day 06</span>  | Jun 25          |                                                                                                                                    |                                                                              |
