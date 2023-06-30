@@ -22,8 +22,8 @@
 
 #### Learn JavaScript Software Development 
 - [ ] JavaScript Core Concepts -
-	- [ ] Variables & data types - [Day 1](#day-01), [Day 2](#day-02)
-	- [ ] Data structures - [Day 3](#day-03)
+	- [ ] Variables & data types -
+	- [ ] Data structures - 
 	- [ ] Equality Comparisons - 
 	- [ ] Loops and Iterations - 
 	- [ ] Control Flow - 
@@ -72,7 +72,7 @@
 	-  [ ] Greedy -
 
 - [ ] Solve LeetCode Challenges in Javascript -
-- [ ] Solve Hackerrank Challenges in JavaScript - [Day 1](#day-01), [Day 3](#day-03)
+- [ ] Solve Hackerrank Challenges in JavaScript - 
 - [ ] solve CodeWars challenges in JavaScript -
 
 ---
@@ -91,7 +91,7 @@
 ### Conquer a job
 - [ ] Publish the portfolio -
 - [ ] Improve my resume -
-- [ ] apply for jobs - [Day 1](#day-01), [Day 3](#day-03)
+- [ ] apply for jobs -
 
 
 ---
@@ -101,14 +101,14 @@
 
 | **Daytime :sunny:**              | **Date :date:** | **Tasks/Lessons Done :white_check_mark:**                                                                                          | **Links Ref. :link:**                                                        |
 | -------------------------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| <span id="day-01">Day 01</span>  | Jun 26          | AWS Cloud Pratitioner + JavaScript core concepts: Arrays + CLP(R) Programming                                                      | [code :pager:][def]                                                          |
-| <span id="day-02">Day 02</span>  | Jun 27          | JavaScript core concepts: Arrays + Job aplications                                                                                 | [code :pager:][def]                                                          |
-| <span id="day-03">Day 03</span>  | Jun 28          |                                                                                                                                    | [code :pager:][def]                                                          |
-| <span id="day-04">Day 04</span>  | Jun 29          |                                                                                                                                    | [code :pager:][def]                                                          |
-| <span id="day-05">Day 05</span>  | Jun 30          |                                                                                                                                    |                                                                              |
-| <span id="day-06">Day 06</span>  | Jul 01          |                                                                                                                                    |                                                                              |
-| <span id="day-07">Day 07</span>  | Jul 02          |                                                                                                                                    |                                                                              |
-| <span id="day-08">Day 08</span>  | Jul 03          |                                                                                                                                    |                                                                              |
+| <span id="day-01">Day 01</span>  | Jul 01          |                                                                                                                                    | [code :pager:][def]                                                          |
+| <span id="day-02">Day 02</span>  | Jul 02          |                                                                                                                                    | [code :pager:][def]                                                          |
+| <span id="day-03">Day 03</span>  | Jul 03          |                                                                                                                                    | [code :pager:][def]                                                          |
+| <span id="day-04">Day 04</span>  | Jul 04          |                                                                                                                                    | [code :pager:][def]                                                          |
+| <span id="day-05">Day 05</span>  | Jul 05          |                                                                                                                                    |                                                                              |
+| <span id="day-06">Day 06</span>  | Jul 06          |                                                                                                                                    |                                                                              |
+| <span id="day-07">Day 07</span>  | Jul 07          |                                                                                                                                    |                                                                              |
+| <span id="day-08">Day 08</span>  | Jul 08          |                                                                                                                                    |                                                                              |
 
 
 ---
